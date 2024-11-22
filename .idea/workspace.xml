@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4527f78e-b842-4230-bef9-12c4bd1d1863" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_admin/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_admin/src/main/java/com/hyggegood/admin/AdminApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_admin/src/main/java/com/hyggegood/admin/controller/AdminController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_admin/src/main/java/com/hyggegood/admin/controller/PermissionsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_admin/src/main/java/com/hyggegood/admin/controller/RolesController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_admin/src/main/java/com/hyggegood/admin/controller/RolesPermissionsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_admin/src/main/java/com/hyggegood/admin/controller/UsersController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_admin/src/main/java/com/hyggegood/admin/entity/Permissions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_admin/src/main/java/com/hyggegood/admin/entity/Roles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_admin/src/main/java/com/hyggegood/admin/entity/RolesPermissions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_admin/src/main/java/com/hyggegood/admin/entity/Users.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_admin/src/main/java/com/hyggegood/admin/mapper/PermissionsMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_admin/src/main/java/com/hyggegood/admin/mapper/RolesMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_admin/src/main/java/com/hyggegood/admin/mapper/RolesPermissionsMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_admin/src/main/java/com/hyggegood/admin/mapper/UsersMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_admin/src/main/java/com/hyggegood/admin/service/PermissionsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_admin/src/main/java/com/hyggegood/admin/service/RolesPermissionsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_admin/src/main/java/com/hyggegood/admin/service/RolesService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_admin/src/main/java/com/hyggegood/admin/service/UsersService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_admin/src/main/java/com/hyggegood/admin/service/impl/PermissionsServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_admin/src/main/java/com/hyggegood/admin/service/impl/RolesPermissionsServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_admin/src/main/java/com/hyggegood/admin/service/impl/RolesServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_admin/src/main/java/com/hyggegood/admin/service/impl/UsersServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_admin/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_admin/src/main/resources/mapper/PermissionsXml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_admin/src/main/resources/mapper/RolesPermissionsXml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_admin/src/main/resources/mapper/RolesXml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_admin/src/main/resources/mapper/UsersXml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_admin/src/test/java/com/hyggegood/admin/AdminApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_admin/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_admin/target/classes/com/hyggegood/admin/AdminApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_admin/target/classes/com/hyggegood/admin/controller/AdminController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_admin/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_admin/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_admin/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_admin/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_admin/target/surefire-reports/2024-11-19T22-21-27_424.dumpstream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_admin/target/surefire-reports/2024-11-19T22-22-57_306.dumpstream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_admin/target/surefire-reports/TEST-com.hyggegood.admin.AdminApplicationTests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_admin/target/surefire-reports/com.hyggegood.admin.AdminApplicationTests.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_admin/target/test-classes/com/hyggegood/admin/AdminApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_common/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_common/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_common/src/main/java/com/hyggegood/hg_common/HgCommonApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_common/src/main/java/com/hyggegood/hg_common/exception/CustomException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_common/src/main/java/com/hyggegood/hg_common/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_common/src/main/java/com/hyggegood/hg_common/utils/DateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_common/src/main/java/com/hyggegood/hg_common/utils/Jwtutils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_common/src/main/java/com/hyggegood/hg_common/utils/MybatisPlusGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_common/src/main/java/com/hyggegood/hg_common/utils/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_common/src/main/java/com/hyggegood/hg_common/utils/SecretKeyGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_common/src/main/java/com/hyggegood/hg_common/utils/StringUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_common/src/main/java/com/hyggegood/hg_common/utils/SystemConstant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_common/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_common/src/test/java/com/hyggegood/hg_common/HgCommonApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_common/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_common/target/classes/com/hyggegood/hg_common/HgCommonApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_common/target/classes/com/hyggegood/hg_common/utils/DateUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_common/target/classes/com/hyggegood/hg_common/utils/Jwtutils$JwtParseException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_common/target/classes/com/hyggegood/hg_common/utils/Jwtutils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_common/target/classes/com/hyggegood/hg_common/utils/MybatisPlusGenerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_common/target/classes/com/hyggegood/hg_common/utils/R.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_common/target/classes/com/hyggegood/hg_common/utils/SecretKeyGenerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_common/target/classes/com/hyggegood/hg_common/utils/StringUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_common/target/classes/com/hyggegood/hg_common/utils/SystemConstant.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_config/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_config/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_config/src/main/java/com/hyggegood/hg_config/HgConfigApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_config/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hg_config/src/test/java/com/hyggegood/hg_config/HgConfigApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+        <option name="userSettingsFile" value="E:\Profiles\Maven\apache-maven-3.9.7\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2p4ERzbszO489xKenOxxXIohWfD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.DateUtil.executor": "Run",
+    "Application.Jwtutils.executor": "Run",
+    "Application.MybatisPlusGenerator.executor": "Run",
+    "Application.SecretKeyGenerator.executor": "Run",
+    "Maven.HyggeGood [clean].executor": "Run",
+    "Maven.HyggeGood [install].executor": "Run",
+    "Maven.admin [clean].executor": "Run",
+    "Maven.admin [install].executor": "Run",
+    "Maven.hg_common [clean].executor": "Run",
+    "Maven.hg_common [install].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.AdminApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "17",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/ProjectFiles/HG/HyggeGood/hg_common/src/main/java/com/hyggegood/hg_common/utils",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.configurations.included.in.services": "true",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ProjectFiles\HG\HyggeGood\hg_common\src\main\java\com\hyggegood\hg_common\utils" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Jwtutils">
+    <configuration name="DateUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hyggegood.hg_common.utils.DateUtil" />
+      <module name="hg_common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hyggegood.hg_common.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Jwtutils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hyggegood.hg_common.utils.Jwtutils" />
+      <module name="hg_common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hyggegood.hg_common.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisPlusGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hyggegood.hg_common.utils.MybatisPlusGenerator" />
+      <module name="hg_common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hyggegood.hg_common.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecretKeyGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hyggegood.hg_common.utils.SecretKeyGenerator" />
+      <module name="hg_common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hyggegood.hg_common.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="hg_admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hyggegood.admin.AdminApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HgCommonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="hg_common" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hyggegood.hg_common.HgCommonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HgConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="hg_config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hyggegood.hg_config.HgConfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Jwtutils" />
+        <item itemvalue="Application.SecretKeyGenerator" />
+        <item itemvalue="Application.DateUtil" />
+        <item itemvalue="Application.MybatisPlusGenerator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4527f78e-b842-4230-bef9-12c4bd1d1863" name="Changes" comment="" />
+      <created>1732016944381</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732016944381</updated>
+      <workItem from="1732016945408" duration="1592000" />
+      <workItem from="1732020180750" duration="4937000" />
+      <workItem from="1732025969086" duration="281000" />
+      <workItem from="1732027156150" duration="946000" />
+      <workItem from="1732106019923" duration="4917000" />
+      <workItem from="1732190726741" duration="12738000" />
+      <workItem from="1732280387754" duration="1312000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
